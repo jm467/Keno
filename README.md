@@ -11,3 +11,7 @@ Keno Game Application Using JavaFX
 4. Then you will go through your drawings one at a time and your winnings will be reported after each drawing.
 5. Once your drawings are complete you may either quit the app or fill out another bet card.
    
+
+
+https://github.com/user-attachments/assets/7ce64399-07aa-4d63-8892-235bcefa7a59
+
